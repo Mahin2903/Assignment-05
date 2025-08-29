@@ -64,6 +64,7 @@ const services = [
     icon: "assets/Bangladesh-Railway.png",
   },
 ];
+
 // Counters
 let heartCount = 0;
 let coinCount = 100;
